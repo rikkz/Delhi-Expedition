@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">DelhiExpedition</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="location_1_name">Zaffran</string>
+    <string name="location_2_name">Baluchi</string>
+    <string name="location_3_name">Dakshin</string>
+    <string name="location_4_name">Indian Accent</string>
+    <string name="location_5_name">Shang Palace</string>
+
+    <string name="location_1_desc">Glass walls and wicker chairs give this hotel restaurant serving Indian food an outdoor vibe.</string>
+    <string name="location_2_desc">Luxury hotels Indian restaurant serving clay oven cooked bread, world wines and lunchtime thalis.</string>
+    <string name="location_3_desc">N/A</string>
+    <string name="location_4_desc">Contemporary twists on Indian cuisine are served at this stylish, prize-winning restaurant.</string>
+    <string name="location_5_desc">Dark hued hotel dining room with chandeliers and a fine dining Chinese food menu.</string>
+
+    <string name="hospital_1_name">Govind Ballabh Pant Hospital</string>
+    <string name="hospital_1_desc">Jawaharlal Nehru Marg, New Delhi, Delhi 110002</string>
+
+    <string name="hospital_2_name">Delhi Heart And Lung Institute</string>
+    <string name="hospital_2_desc">Mandir Marg, Panchkuian Road, New Delhi, Delhi 110055</string>
+
+    <string name="hospital_3_name">Lok Nayak Jai Prakash Narayan Hospital</string>
+    <string name="hospital_3_desc">Near Delhi Gate, Jawaharlal Nehru Marg, New Delhi, Delhi 110002</string>
+
+    <string name="hospital_4_name">Sanjeevan Hospital</string>
+    <string name="hospital_4_desc">24, Ansari Road, Darya Ganj, New Delhi, Delhi 110002</string>
+
+    <string name="hospital_5_name">uper Speciality Block, SGRH</string>
+    <string name="hospital_5_desc"> 22/1, Sarhadi Gandhi Marg, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi 110060</string>
+
+    <string name="toursit_1_name">India Gate</string>
+    <string name="toursit_1_desc">The India Gate is a war memorial located astride the Rajpath, on the eastern edge of the ‘ceremonial axis’ of New Delhi, India, formerly called Kingsway</string>
+
+    <string name="toursit_2_name">Jantar Mantar, New Delhi</string>
+    <string name="toursit_2_desc">Jantar Mantar is located in the modern city of New Delhi. It consists of 13 architectural astronomy instruments.</string>
+
+    <string name="toursit_3_name">Agrasen ki Baoli </string>
+    <string name="toursit_3_desc">Agrasen ki Baoli, designated a protected monument by the Archaeological Survey of India under the Ancient Monuments and Archaeological Sites and Remains Act of 1958, is a 60-meter long and 15-meter wide</string>
+
+    <string name="toursit_4_name">The Red Fort</string>
+    <string name="toursit_4_desc">The Red Fort is a historic fort in the city of Delhi in India. It was the main residence of the emperors of the Mughal dynasty for nearly 200 years, until 1857. It is located in the center of Delhi and houses a number of museums</string>
+
+    <string name="toursit_5_name">Raj Ghat and associated memorials</string>
+    <string name="toursit_5_desc">Raj Ghat is a memorial dedicated to Mahatma Gandhi. Originally it was the name of a historic ghat of Old Delhi on the banks of Yamuna river.</string>
+
+
+    <string name="police_1_name"> Police Station 1 </string>
+    <string name="police_1_desc"> Desh Bandhu Gupta Road, Aram Bagh, Pahar ganj, Near Railway station, New Delhi, Delhi 110055 </string>
+
+    <string name="police_2_name">Police Station 2 </string>
+    <string name="police_2_desc"> HC Sen Marg, Kaccha Bagh Area, Chandni Chowk, New Delhi, Delhi 110006 </string>
+
+
+    <string name="police_3_name"> Police Station 3  </string>
+    <string name="police_3_desc"> Qutab Road, Nabi Karim, Sadar Bazaar, New Delhi, Delhi 110055 </string>
+
+
+    <string name="police_4_name"> Police Station 4  </string>
+    <string name="police_4_desc">  Baba Kharak Singh Marg, Near Hanuman Mandir, Connaught Place, New Delhi, Delhi 110001 </string>
+
+    <string name="police_5_name"> Police Station 5 </string>
+    <string name="police_5_desc"> Lodi Colony, New Delhi, 110003 </string>
+
+</resources>
